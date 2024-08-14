@@ -1,5 +1,5 @@
 # INPUT DEVICES
-#keyboards
+keyboards
 computer mice
 scanners
 cameras
