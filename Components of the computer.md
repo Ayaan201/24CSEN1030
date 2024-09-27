@@ -1,7 +1,7 @@
 # INPUT DEVICES
- *keyboards
- *computer mice
- *scanners
- *cameras
- *joysticks
+ *keyboards\t
+ *computer mice\t
+ *scanners\t
+ *cameras\t
+ *joysticks\t
  *microphones
